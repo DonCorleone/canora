@@ -76,7 +76,6 @@ import { AdmlFooterComponent } from './ai-digital-marketing-landing/adml-footer/
 import { BlogPageComponent } from './blog-page/blog-page.component';
 import { BlogDetailsPageComponent } from './blog-details-page/blog-details-page.component';
 import { NavbarComponent } from './common/navbar/navbar.component';
-import { SidebarComponent } from './common/sidebar/sidebar.component';
 import { FooterComponent } from './common/footer/footer.component';
 
 @NgModule({
@@ -152,7 +151,6 @@ import { FooterComponent } from './common/footer/footer.component';
         BlogPageComponent,
         BlogDetailsPageComponent,
         NavbarComponent,
-        SidebarComponent,
         FooterComponent,
     ],
     imports: [
